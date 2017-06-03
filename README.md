@@ -7,7 +7,8 @@ This project consists of an exploration of data extracted directly from the wide
 The data to be exploited will still be defined by the team and this README document will be edited later
 
 ### Version ###
-1.0
+
+* 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### Crew ###
