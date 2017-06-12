@@ -4,7 +4,7 @@
 
 This project consists of an exploration of data extracted directly from the wide world web.
 
-The data to be exploited will still be defined by the team and this README document will be edited later
+The data to be explored needs to be defined by the team and this README document will be edited later
 
 ### Version ###
 
